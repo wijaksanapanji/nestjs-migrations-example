@@ -1,6 +1,6 @@
 ## Description
 
-[Nest](https://github.com/nestjs/nest) migrations example with TypeORm.
+[Nest](https://github.com/nestjs/nest) migrations example with TypeORM.
 
 ## Installation
 
@@ -9,8 +9,6 @@ $ npm install
 ```
 
 ## Running the app
-
-# Database config
 Make sure to setup your database environment in `ormconfig.ts`
 
 ```bash
