@@ -25,17 +25,17 @@ $ npm run start:prod
 ## Running the migrations
 To generate migrations run
 ```bash
-npm run typeorm:generate <MigrationName>
+$ npm run typeorm:generate <MigrationName>
 ```
 
 example:
 ```bash
-npm run typeorm:generate User
+$ npm run typeorm:generate User
 ```
 
 To run migration
 ```bash
-npm run typeorm:run
+$ npm run typeorm:run
 ```
 
 
